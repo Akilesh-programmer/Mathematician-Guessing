@@ -5,4 +5,6 @@ word_list = [
     'thales',
     'archimedes',
     'ramanujan',
+    'aristotle',
+    'euler'
 ]
