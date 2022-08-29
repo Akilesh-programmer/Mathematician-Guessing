@@ -44,7 +44,7 @@ while not end_of_game:
 
         # Reducing the lives
         lives -= 1
-        print("You have  " + str(lives) + " lives")
+        print("You have  " + str(lives) + " lifes")
 
         # Ending the game if the player lost all of his lives.
         if lives == 0:
